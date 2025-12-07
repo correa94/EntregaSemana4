@@ -63,3 +63,13 @@ h1:hover{
 .producto-info p {
     margin: 4px 0;
 }
+
+#boton-compra {
+    background-color: #30723f;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

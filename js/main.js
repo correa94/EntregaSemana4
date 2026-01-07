@@ -1,5 +1,5 @@
 let productos = [];
-fetch("./data/MainProductos.json")
+fetch("./data/productos.json")
   .then((response) => response.json())
   .then((data) => {
     renderProductos(data);

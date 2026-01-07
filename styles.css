@@ -73,3 +73,33 @@ h1:hover{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
+#nombre, #email, #telefono {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#metodo-pago {
+    display: block;
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#finalizar-compra {
+    background-color: #0044cc;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

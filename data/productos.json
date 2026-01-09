@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "img": "/img/bici gym.jpg",
+    "img": "img/bici_gym.jpg",
     "nombre": "Bicicleta Estática",
     "precio": 85000,
     "categoria": "Cardio",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "img": "/img/colchoneta yoga.jpg",
+    "img": "img/colchoneta_yoga.jpg",
     "nombre": "Colchoneta de Yoga",
     "precio": 7000,
     "categoria": "Yoga",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "img": "/img/banco de pesas.avif",
+    "img": "img/banco_de_pesas.avif",
     "nombre": "Banco de Pesas",
     "precio": 30000,
     "categoria": "Musculación",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "img": "/img/cinta de correr.avif",
+    "img": "img/cinta_de_correr.avif",
     "nombre": "Cinta de Correr",
     "precio": 180000,
     "categoria": "Cardio",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "img": "/img/bandas elasticas.webp",
+    "img": "img/bandas_elasticas.webp",
     "nombre": "Set de Bandas Elásticas",
     "precio": 9000,
     "categoria": "Entrenamiento Funcional",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "img": "/img/barra olimpica.jpg",
+    "img": "img/barra_olimpica.jpg",
     "nombre": "Barra Olímpica",
     "precio": 45000,
     "categoria": "Pesas",

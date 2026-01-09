@@ -131,6 +131,15 @@ Swal.fire({
         title: "Compra realizada",
         text: "Gracias por su compra."
       });
+
+      } else if (result.isDismissed) {
+    Swal.fire({
+      icon: "error",
+      title: "Compra cancelada",
+      text: "La compra fue cancelada",
+      confirmButtonText: "Aceptar"
+
+    });
       localStorage.removeItem("cartProducts");
     cartContainer.innerHTML = "";
     const formulario = document.getElementById("formulario-compra");
